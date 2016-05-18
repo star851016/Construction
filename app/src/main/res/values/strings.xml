@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Construction</string>
+
+    <string name="g_ok">OK</string>
+    <string name="g_e_network">network error!</string>
+    <string name="g_e_connect_message">can not connect network!</string>
+
+    <string name="success">success</string>
+
+    <string name="login">Welcome</string>
+    <string name="animalList">ConstructionList</string>
+    <string name="animalDetail">ConstructionDetail</string>
+    <string name="sex">Sex:%s</string>
+    <string name="variety">Variety:%s</string>
+    <string name="hairType">HairType:%s</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
