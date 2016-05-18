@@ -39,7 +39,7 @@ public class ConstructionDetailActivity extends BaseSpiceActivity {
     TextView Tc_Ma3;
     @Bind(R.id.note)
     TextView note;
-   
+    Context context;
 
 
     ;
